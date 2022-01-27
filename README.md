@@ -1,6 +1,6 @@
 # **Real Estate Analysis**
 
-Gonçalo Bastos, Manuel Pinheiro, Pedro Davide & Ricardo Leça4
+Gonçalo Bastos, Manuel Pinheiro, Pedro Davide & Ricardo Leça
 
 #### Abstract: The aim of this project was to better understand the Portuguese Real Estate Market. To accomplish this goal, data was collected from different sources, Real Estate data was scraped from SapoCasa and sociodemographic data from PorData. Data analysis techniques were performed to clean and transform the collected data, followed by a process of exploration and visualization of the data, which resulted in a geospatial analysis of data distribution across the country. Results confirmed &quot;common-sense&quot; understanding of the market (Lisbon, Porto and Faro as the most expensive districts; Littoral being generally more expensive than the Interior), but also provided some new insights such as Grândola being the Municipality where the ratio between property prices and average remuneration is the highest. Our analysis also revealed that Real Estate Market does not seem to be slowing down.
 
