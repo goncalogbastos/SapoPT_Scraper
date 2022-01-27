@@ -3,11 +3,8 @@ Scraper developed to get portuguese real estate data from https://casa.sapo.pt/e
 
 
 ### Real Estate Analysis 
-Gonçalo Bastos1, Manuel Pinheiro2, Pedro Davide & Ricardo Leça
-120201738; m20201738@novaims.unl.pt
-220201742; m20201742@novaims.unl.pt
-320201739; m20201739@novaims.unl.pt
-420201747; m20201747@novaims.unl.pt
+Gonçalo Bastos, Manuel Pinheiro, Pedro Davide & Ricardo Leça
+
 
 ### Abstract: 
 
