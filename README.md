@@ -46,7 +46,7 @@ Data cleaning processes and techniques using the Python _Pandas_ library in a Ju
 
 We started with a global analysis in order to obtain insight on the Portuguese Real Estate Market based on several properties&#39; features such as price, construction area, typology, condition, etc. We started with a bar graph showing the number of properties available, to better understand the activity of the Real Estate Market in each district:
 
-![](RackMultipart20220127-4-19i65h4_html_60e95f09a59a4a8b.png)
+![](https://github.com/goncalogbastos/SapoPT_Scraper/blob/master/images/districts.png)
 
 As expected, we verified that Lisboa, Porto and Faro have high Real Estate Market activity as each district has more than 20,000 properties for sale. In the first two districts, this number is explained because they are urban centers with high population density. In the Faro district, the high number of properties for sale could be related with high tourism activity/&quot;second-home&quot; properties. It was also noted that the Setúbal district is similar to the last ones, with a high number of properties. This might be justified by large urban areas within the Setúbal District in the &quot;Lisbon South Bay&quot;. In the opposite direction, the districts of Portalegre, Vila Real and Bragança have a small number of properties, suggesting little activity in the market. This could be explained because they are in Portugal&#39;s inland and have low population density and aged people. As for the properties condition, most are in used (_Usado_) condition:
 
