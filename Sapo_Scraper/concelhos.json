@@ -1,0 +1,2226 @@
+[
+    {
+        "Id": "1",
+        "Name": "Águeda",
+        "Group": "Distrito de Aveiro",
+        "GroupID": "1",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/agueda/",
+        "Title": "Properties for Sale, Apartments in Águeda"
+    },
+    {
+        "Id": "2",
+        "Name": "Albergaria-a-Velha",
+        "Group": "Distrito de Aveiro",
+        "GroupID": "1",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/albergaria-a-velha/",
+        "Title": "Properties for Sale, Apartments in Albergaria-a-Velha"
+    },
+    {
+        "Id": "3",
+        "Name": "Anadia",
+        "Group": "Distrito de Aveiro",
+        "GroupID": "1",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/anadia/",
+        "Title": "Properties for Sale, Apartments in Anadia"
+    },
+    {
+        "Id": "4",
+        "Name": "Arouca",
+        "Group": "Distrito de Aveiro",
+        "GroupID": "1",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/arouca/",
+        "Title": "Properties for Sale, Apartments in Arouca"
+    },
+    {
+        "Id": "5",
+        "Name": "Aveiro",
+        "Group": "Distrito de Aveiro",
+        "GroupID": "1",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/aveiro/",
+        "Title": "Properties for Sale, Apartments in Aveiro"
+    },
+    {
+        "Id": "6",
+        "Name": "Castelo de Paiva",
+        "Group": "Distrito de Aveiro",
+        "GroupID": "1",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/castelo-de-paiva/",
+        "Title": "Properties for Sale, Apartments in Castelo de Paiva"
+    },
+    {
+        "Id": "7",
+        "Name": "Espinho",
+        "Group": "Distrito de Aveiro",
+        "GroupID": "1",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/espinho/",
+        "Title": "Properties for Sale, Apartments in Espinho"
+    },
+    {
+        "Id": "8",
+        "Name": "Estarreja",
+        "Group": "Distrito de Aveiro",
+        "GroupID": "1",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/estarreja/",
+        "Title": "Properties for Sale, Apartments in Estarreja"
+    },
+    {
+        "Id": "9",
+        "Name": "Santa Maria da Feira",
+        "Group": "Distrito de Aveiro",
+        "GroupID": "1",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/santa-maria-da-feira/",
+        "Title": "Properties for Sale, Apartments in Santa Maria da Feira"
+    },
+    {
+        "Id": "10",
+        "Name": "Ílhavo",
+        "Group": "Distrito de Aveiro",
+        "GroupID": "1",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/ilhavo/",
+        "Title": "Properties for Sale, Apartments in Ílhavo"
+    },
+    {
+        "Id": "11",
+        "Name": "Mealhada",
+        "Group": "Distrito de Aveiro",
+        "GroupID": "1",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/mealhada/",
+        "Title": "Properties for Sale, Apartments in Mealhada"
+    },
+    {
+        "Id": "12",
+        "Name": "Murtosa",
+        "Group": "Distrito de Aveiro",
+        "GroupID": "1",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/murtosa/",
+        "Title": "Properties for Sale, Apartments in Murtosa"
+    },
+    {
+        "Id": "13",
+        "Name": "Oliveira de Azeméis",
+        "Group": "Distrito de Aveiro",
+        "GroupID": "1",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/oliveira-de-azemeis/",
+        "Title": "Properties for Sale, Apartments in Oliveira de Azeméis"
+    },
+    {
+        "Id": "14",
+        "Name": "Oliveira do Bairro",
+        "Group": "Distrito de Aveiro",
+        "GroupID": "1",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/oliveira-do-bairro/",
+        "Title": "Properties for Sale, Apartments in Oliveira do Bairro"
+    },
+    {
+        "Id": "15",
+        "Name": "Ovar",
+        "Group": "Distrito de Aveiro",
+        "GroupID": "1",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/ovar/",
+        "Title": "Properties for Sale, Apartments in Ovar"
+    },
+    {
+        "Id": "16",
+        "Name": "São João da Madeira",
+        "Group": "Distrito de Aveiro",
+        "GroupID": "1",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/sao-joao-da-madeira/",
+        "Title": "Properties for Sale, Apartments in São João da Madeira"
+    },
+    {
+        "Id": "17",
+        "Name": "Sever do Vouga",
+        "Group": "Distrito de Aveiro",
+        "GroupID": "1",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/sever-do-vouga/",
+        "Title": "Properties for Sale, Apartments in Sever do Vouga"
+    },
+    {
+        "Id": "18",
+        "Name": "Vagos",
+        "Group": "Distrito de Aveiro",
+        "GroupID": "1",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/vagos/",
+        "Title": "Properties for Sale, Apartments in Vagos"
+    },
+    {
+        "Id": "19",
+        "Name": "Vale de Cambra",
+        "Group": "Distrito de Aveiro",
+        "GroupID": "1",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/vale-de-cambra/",
+        "Title": "Properties for Sale, Apartments in Vale de Cambra"
+    },
+    {
+        "Id": "20",
+        "Name": "Aljustrel",
+        "Group": "Distrito de Beja",
+        "GroupID": "2",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/aljustrel/",
+        "Title": "Properties for Sale, Apartments in Aljustrel"
+    },
+    {
+        "Id": "21",
+        "Name": "Almodôvar",
+        "Group": "Distrito de Beja",
+        "GroupID": "2",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/almodovar/",
+        "Title": "Properties for Sale, Apartments in Almodôvar"
+    },
+    {
+        "Id": "22",
+        "Name": "Alvito",
+        "Group": "Distrito de Beja",
+        "GroupID": "2",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/alvito/",
+        "Title": "Properties for Sale, Apartments in Alvito"
+    },
+    {
+        "Id": "23",
+        "Name": "Barrancos",
+        "Group": "Distrito de Beja",
+        "GroupID": "2",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/barrancos/",
+        "Title": "Properties for Sale, Apartments in Barrancos"
+    },
+    {
+        "Id": "24",
+        "Name": "Beja",
+        "Group": "Distrito de Beja",
+        "GroupID": "2",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/beja/",
+        "Title": "Properties for Sale, Apartments in Beja"
+    },
+    {
+        "Id": "25",
+        "Name": "Castro Verde",
+        "Group": "Distrito de Beja",
+        "GroupID": "2",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/castro-verde/",
+        "Title": "Properties for Sale, Apartments in Castro Verde"
+    },
+    {
+        "Id": "26",
+        "Name": "Cuba",
+        "Group": "Distrito de Beja",
+        "GroupID": "2",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/cuba/",
+        "Title": "Properties for Sale, Apartments in Cuba"
+    },
+    {
+        "Id": "27",
+        "Name": "Ferreira do Alentejo",
+        "Group": "Distrito de Beja",
+        "GroupID": "2",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/ferreira-do-alentejo/",
+        "Title": "Properties for Sale, Apartments in Ferreira do Alentejo"
+    },
+    {
+        "Id": "28",
+        "Name": "Mértola",
+        "Group": "Distrito de Beja",
+        "GroupID": "2",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/mertola/",
+        "Title": "Properties for Sale, Apartments in Mértola"
+    },
+    {
+        "Id": "29",
+        "Name": "Moura",
+        "Group": "Distrito de Beja",
+        "GroupID": "2",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/moura/",
+        "Title": "Properties for Sale, Apartments in Moura"
+    },
+    {
+        "Id": "30",
+        "Name": "Odemira",
+        "Group": "Distrito de Beja",
+        "GroupID": "2",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/odemira/",
+        "Title": "Properties for Sale, Apartments in Odemira"
+    },
+    {
+        "Id": "31",
+        "Name": "Ourique",
+        "Group": "Distrito de Beja",
+        "GroupID": "2",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/ourique/",
+        "Title": "Properties for Sale, Apartments in Ourique"
+    },
+    {
+        "Id": "32",
+        "Name": "Serpa",
+        "Group": "Distrito de Beja",
+        "GroupID": "2",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/serpa/",
+        "Title": "Properties for Sale, Apartments in Serpa"
+    },
+    {
+        "Id": "33",
+        "Name": "Vidigueira",
+        "Group": "Distrito de Beja",
+        "GroupID": "2",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/vidigueira/",
+        "Title": "Properties for Sale, Apartments in Vidigueira"
+    },
+    {
+        "Id": "34",
+        "Name": "Amares",
+        "Group": "Distrito de Braga",
+        "GroupID": "3",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/amares/",
+        "Title": "Properties for Sale, Apartments in Amares"
+    },
+    {
+        "Id": "35",
+        "Name": "Barcelos",
+        "Group": "Distrito de Braga",
+        "GroupID": "3",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/barcelos/",
+        "Title": "Properties for Sale, Apartments in Barcelos"
+    },
+    {
+        "Id": "36",
+        "Name": "Braga",
+        "Group": "Distrito de Braga",
+        "GroupID": "3",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/braga/",
+        "Title": "Properties for Sale, Apartments in Braga"
+    },
+    {
+        "Id": "37",
+        "Name": "Cabeceiras de Basto",
+        "Group": "Distrito de Braga",
+        "GroupID": "3",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/cabeceiras-de-basto/",
+        "Title": "Properties for Sale, Apartments in Cabeceiras de Basto"
+    },
+    {
+        "Id": "38",
+        "Name": "Celorico de Basto",
+        "Group": "Distrito de Braga",
+        "GroupID": "3",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/celorico-de-basto/",
+        "Title": "Properties for Sale, Apartments in Celorico de Basto"
+    },
+    {
+        "Id": "39",
+        "Name": "Esposende",
+        "Group": "Distrito de Braga",
+        "GroupID": "3",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/esposende/",
+        "Title": "Properties for Sale, Apartments in Esposende"
+    },
+    {
+        "Id": "40",
+        "Name": "Fafe",
+        "Group": "Distrito de Braga",
+        "GroupID": "3",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/fafe/",
+        "Title": "Properties for Sale, Apartments in Fafe"
+    },
+    {
+        "Id": "41",
+        "Name": "Guimarães",
+        "Group": "Distrito de Braga",
+        "GroupID": "3",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/guimaraes/",
+        "Title": "Properties for Sale, Apartments in Guimarães"
+    },
+    {
+        "Id": "42",
+        "Name": "Póvoa de Lanhoso",
+        "Group": "Distrito de Braga",
+        "GroupID": "3",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/povoa-de-lanhoso/",
+        "Title": "Properties for Sale, Apartments in Póvoa de Lanhoso"
+    },
+    {
+        "Id": "43",
+        "Name": "Terras de Bouro",
+        "Group": "Distrito de Braga",
+        "GroupID": "3",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/terras-de-bouro/",
+        "Title": "Properties for Sale, Apartments in Terras de Bouro"
+    },
+    {
+        "Id": "44",
+        "Name": "Vieira do Minho",
+        "Group": "Distrito de Braga",
+        "GroupID": "3",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/vieira-do-minho/",
+        "Title": "Properties for Sale, Apartments in Vieira do Minho"
+    },
+    {
+        "Id": "45",
+        "Name": "Vila Nova de Famalicão",
+        "Group": "Distrito de Braga",
+        "GroupID": "3",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/vila-nova-de-famalicao/",
+        "Title": "Properties for Sale, Apartments in Vila Nova de Famalicão"
+    },
+    {
+        "Id": "46",
+        "Name": "Vila Verde",
+        "Group": "Distrito de Braga",
+        "GroupID": "3",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/vila-verde/",
+        "Title": "Properties for Sale, Apartments in Vila Verde"
+    },
+    {
+        "Id": "47",
+        "Name": "Vizela",
+        "Group": "Distrito de Braga",
+        "GroupID": "3",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/vizela/",
+        "Title": "Properties for Sale, Apartments in Vizela"
+    },
+    {
+        "Id": "48",
+        "Name": "Alfândega da Fé",
+        "Group": "Distrito de Bragança",
+        "GroupID": "4",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/alfandega-da-fe/",
+        "Title": "Properties for Sale, Apartments in Alfândega da Fé"
+    },
+    {
+        "Id": "49",
+        "Name": "Bragança",
+        "Group": "Distrito de Bragança",
+        "GroupID": "4",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/braganca/",
+        "Title": "Properties for Sale, Apartments in Bragança"
+    },
+    {
+        "Id": "50",
+        "Name": "Carrazeda de Ansiães",
+        "Group": "Distrito de Bragança",
+        "GroupID": "4",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/carrazeda-de-ansiaes/",
+        "Title": "Properties for Sale, Apartments in Carrazeda de Ansiães"
+    },
+    {
+        "Id": "51",
+        "Name": "Freixo de Espada à Cinta",
+        "Group": "Distrito de Bragança",
+        "GroupID": "4",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/freixo-de-espada-a-cinta/",
+        "Title": "Properties for Sale, Apartments in Freixo de Espada à Cinta"
+    },
+    {
+        "Id": "52",
+        "Name": "Macedo de Cavaleiros",
+        "Group": "Distrito de Bragança",
+        "GroupID": "4",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/macedo-de-cavaleiros/",
+        "Title": "Properties for Sale, Apartments in Macedo de Cavaleiros"
+    },
+    {
+        "Id": "53",
+        "Name": "Miranda do Douro",
+        "Group": "Distrito de Bragança",
+        "GroupID": "4",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/miranda-do-douro/",
+        "Title": "Properties for Sale, Apartments in Miranda do Douro"
+    },
+    {
+        "Id": "54",
+        "Name": "Mirandela",
+        "Group": "Distrito de Bragança",
+        "GroupID": "4",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/mirandela/",
+        "Title": "Properties for Sale, Apartments in Mirandela"
+    },
+    {
+        "Id": "55",
+        "Name": "Mogadouro",
+        "Group": "Distrito de Bragança",
+        "GroupID": "4",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/mogadouro/",
+        "Title": "Properties for Sale, Apartments in Mogadouro"
+    },
+    {
+        "Id": "56",
+        "Name": "Torre de Moncorvo",
+        "Group": "Distrito de Bragança",
+        "GroupID": "4",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/torre-de-moncorvo/",
+        "Title": "Properties for Sale, Apartments in Torre de Moncorvo"
+    },
+    {
+        "Id": "57",
+        "Name": "Vila Flor",
+        "Group": "Distrito de Bragança",
+        "GroupID": "4",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/vila-flor/",
+        "Title": "Properties for Sale, Apartments in Vila Flor"
+    },
+    {
+        "Id": "58",
+        "Name": "Vimioso",
+        "Group": "Distrito de Bragança",
+        "GroupID": "4",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/vimioso/",
+        "Title": "Properties for Sale, Apartments in Vimioso"
+    },
+    {
+        "Id": "59",
+        "Name": "Vinhais",
+        "Group": "Distrito de Bragança",
+        "GroupID": "4",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/vinhais/",
+        "Title": "Properties for Sale, Apartments in Vinhais"
+    },
+    {
+        "Id": "60",
+        "Name": "Belmonte",
+        "Group": "Distrito de Castelo Branco",
+        "GroupID": "5",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/belmonte/",
+        "Title": "Properties for Sale, Apartments in Belmonte"
+    },
+    {
+        "Id": "61",
+        "Name": "Castelo Branco",
+        "Group": "Distrito de Castelo Branco",
+        "GroupID": "5",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/castelo-branco/",
+        "Title": "Properties for Sale, Apartments in Castelo Branco"
+    },
+    {
+        "Id": "62",
+        "Name": "Covilhã",
+        "Group": "Distrito de Castelo Branco",
+        "GroupID": "5",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/covilha/",
+        "Title": "Properties for Sale, Apartments in Covilhã"
+    },
+    {
+        "Id": "63",
+        "Name": "Fundão",
+        "Group": "Distrito de Castelo Branco",
+        "GroupID": "5",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/fundao/",
+        "Title": "Properties for Sale, Apartments in Fundão"
+    },
+    {
+        "Id": "64",
+        "Name": "Idanha-a-Nova",
+        "Group": "Distrito de Castelo Branco",
+        "GroupID": "5",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/idanha-a-nova/",
+        "Title": "Properties for Sale, Apartments in Idanha-a-Nova"
+    },
+    {
+        "Id": "65",
+        "Name": "Oleiros",
+        "Group": "Distrito de Castelo Branco",
+        "GroupID": "5",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/oleiros/",
+        "Title": "Properties for Sale, Apartments in Oleiros"
+    },
+    {
+        "Id": "66",
+        "Name": "Penamacor",
+        "Group": "Distrito de Castelo Branco",
+        "GroupID": "5",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/penamacor/",
+        "Title": "Properties for Sale, Apartments in Penamacor"
+    },
+    {
+        "Id": "67",
+        "Name": "Proença-a-Nova",
+        "Group": "Distrito de Castelo Branco",
+        "GroupID": "5",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/proenca-a-nova/",
+        "Title": "Properties for Sale, Apartments in Proença-a-Nova"
+    },
+    {
+        "Id": "68",
+        "Name": "Sertã",
+        "Group": "Distrito de Castelo Branco",
+        "GroupID": "5",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/serta/",
+        "Title": "Properties for Sale, Apartments in Sertã"
+    },
+    {
+        "Id": "69",
+        "Name": "Vila de Rei",
+        "Group": "Distrito de Castelo Branco",
+        "GroupID": "5",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/vila-de-rei/",
+        "Title": "Properties for Sale, Apartments in Vila de Rei"
+    },
+    {
+        "Id": "70",
+        "Name": "Vila Velha de Rodão",
+        "Group": "Distrito de Castelo Branco",
+        "GroupID": "5",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/vila-velha-de-rodao/",
+        "Title": "Properties for Sale, Apartments in Vila Velha de Rodão"
+    },
+    {
+        "Id": "71",
+        "Name": "Arganil",
+        "Group": "Distrito de Coimbra",
+        "GroupID": "6",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/arganil/",
+        "Title": "Properties for Sale, Apartments in Arganil"
+    },
+    {
+        "Id": "72",
+        "Name": "Cantanhede",
+        "Group": "Distrito de Coimbra",
+        "GroupID": "6",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/cantanhede/",
+        "Title": "Properties for Sale, Apartments in Cantanhede"
+    },
+    {
+        "Id": "73",
+        "Name": "Coimbra",
+        "Group": "Distrito de Coimbra",
+        "GroupID": "6",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/coimbra/",
+        "Title": "Properties for Sale, Apartments in Coimbra"
+    },
+    {
+        "Id": "74",
+        "Name": "Condeixa-a-Nova",
+        "Group": "Distrito de Coimbra",
+        "GroupID": "6",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/condeixa-a-nova/",
+        "Title": "Properties for Sale, Apartments in Condeixa-a-Nova"
+    },
+    {
+        "Id": "75",
+        "Name": "Figueira da Foz",
+        "Group": "Distrito de Coimbra",
+        "GroupID": "6",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/figueira-da-foz/",
+        "Title": "Properties for Sale, Apartments in Figueira da Foz"
+    },
+    {
+        "Id": "76",
+        "Name": "Góis",
+        "Group": "Distrito de Coimbra",
+        "GroupID": "6",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/gois/",
+        "Title": "Properties for Sale, Apartments in Góis"
+    },
+    {
+        "Id": "77",
+        "Name": "Lousã",
+        "Group": "Distrito de Coimbra",
+        "GroupID": "6",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/lousa/",
+        "Title": "Properties for Sale, Apartments in Lousã"
+    },
+    {
+        "Id": "78",
+        "Name": "Mira",
+        "Group": "Distrito de Coimbra",
+        "GroupID": "6",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/mira/",
+        "Title": "Properties for Sale, Apartments in Mira"
+    },
+    {
+        "Id": "79",
+        "Name": "Miranda do Corvo",
+        "Group": "Distrito de Coimbra",
+        "GroupID": "6",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/miranda-do-corvo/",
+        "Title": "Properties for Sale, Apartments in Miranda do Corvo"
+    },
+    {
+        "Id": "80",
+        "Name": "Montemor-o-Velho",
+        "Group": "Distrito de Coimbra",
+        "GroupID": "6",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/montemor-o-velho/",
+        "Title": "Properties for Sale, Apartments in Montemor-o-Velho"
+    },
+    {
+        "Id": "81",
+        "Name": "Oliveira do Hospital",
+        "Group": "Distrito de Coimbra",
+        "GroupID": "6",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/oliveira-do-hospital/",
+        "Title": "Properties for Sale, Apartments in Oliveira do Hospital"
+    },
+    {
+        "Id": "82",
+        "Name": "Pampilhosa da Serra",
+        "Group": "Distrito de Coimbra",
+        "GroupID": "6",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/pampilhosa-da-serra/",
+        "Title": "Properties for Sale, Apartments in Pampilhosa da Serra"
+    },
+    {
+        "Id": "83",
+        "Name": "Penacova",
+        "Group": "Distrito de Coimbra",
+        "GroupID": "6",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/penacova/",
+        "Title": "Properties for Sale, Apartments in Penacova"
+    },
+    {
+        "Id": "84",
+        "Name": "Penela",
+        "Group": "Distrito de Coimbra",
+        "GroupID": "6",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/penela/",
+        "Title": "Properties for Sale, Apartments in Penela"
+    },
+    {
+        "Id": "85",
+        "Name": "Soure",
+        "Group": "Distrito de Coimbra",
+        "GroupID": "6",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/soure/",
+        "Title": "Properties for Sale, Apartments in Soure"
+    },
+    {
+        "Id": "86",
+        "Name": "Tábua",
+        "Group": "Distrito de Coimbra",
+        "GroupID": "6",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/tabua/",
+        "Title": "Properties for Sale, Apartments in Tábua"
+    },
+    {
+        "Id": "87",
+        "Name": "Vila Nova de Poiares",
+        "Group": "Distrito de Coimbra",
+        "GroupID": "6",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/vila-nova-de-poiares/",
+        "Title": "Properties for Sale, Apartments in Vila Nova de Poiares"
+    },
+    {
+        "Id": "88",
+        "Name": "Alandroal",
+        "Group": "Distrito de Évora",
+        "GroupID": "7",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/alandroal/",
+        "Title": "Properties for Sale, Apartments in Alandroal"
+    },
+    {
+        "Id": "89",
+        "Name": "Arraiolos",
+        "Group": "Distrito de Évora",
+        "GroupID": "7",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/arraiolos/",
+        "Title": "Properties for Sale, Apartments in Arraiolos"
+    },
+    {
+        "Id": "90",
+        "Name": "Borba",
+        "Group": "Distrito de Évora",
+        "GroupID": "7",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/borba/",
+        "Title": "Properties for Sale, Apartments in Borba"
+    },
+    {
+        "Id": "91",
+        "Name": "Estremoz",
+        "Group": "Distrito de Évora",
+        "GroupID": "7",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/estremoz/",
+        "Title": "Properties for Sale, Apartments in Estremoz"
+    },
+    {
+        "Id": "92",
+        "Name": "Évora",
+        "Group": "Distrito de Évora",
+        "GroupID": "7",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/evora/",
+        "Title": "Properties for Sale, Apartments in Évora"
+    },
+    {
+        "Id": "93",
+        "Name": "Montemor-o-Novo",
+        "Group": "Distrito de Évora",
+        "GroupID": "7",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/montemor-o-novo/",
+        "Title": "Properties for Sale, Apartments in Montemor-o-Novo"
+    },
+    {
+        "Id": "94",
+        "Name": "Mora",
+        "Group": "Distrito de Évora",
+        "GroupID": "7",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/mora/",
+        "Title": "Properties for Sale, Apartments in Mora"
+    },
+    {
+        "Id": "95",
+        "Name": "Mourão",
+        "Group": "Distrito de Évora",
+        "GroupID": "7",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/mourao/",
+        "Title": "Properties for Sale, Apartments in Mourão"
+    },
+    {
+        "Id": "96",
+        "Name": "Portel",
+        "Group": "Distrito de Évora",
+        "GroupID": "7",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/portel/",
+        "Title": "Properties for Sale, Apartments in Portel"
+    },
+    {
+        "Id": "97",
+        "Name": "Redondo",
+        "Group": "Distrito de Évora",
+        "GroupID": "7",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/redondo/",
+        "Title": "Properties for Sale, Apartments in Redondo"
+    },
+    {
+        "Id": "98",
+        "Name": "Reguengos de Monsaraz",
+        "Group": "Distrito de Évora",
+        "GroupID": "7",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/reguengos-de-monsaraz/",
+        "Title": "Properties for Sale, Apartments in Reguengos de Monsaraz"
+    },
+    {
+        "Id": "99",
+        "Name": "Vendas Novas",
+        "Group": "Distrito de Évora",
+        "GroupID": "7",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/vendas-novas/",
+        "Title": "Properties for Sale, Apartments in Vendas Novas"
+    },
+    {
+        "Id": "100",
+        "Name": "Viana do Alentejo",
+        "Group": "Distrito de Évora",
+        "GroupID": "7",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/viana-do-alentejo/",
+        "Title": "Properties for Sale, Apartments in Viana do Alentejo"
+    },
+    {
+        "Id": "101",
+        "Name": "Vila Viçosa",
+        "Group": "Distrito de Évora",
+        "GroupID": "7",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/vila-vicosa/",
+        "Title": "Properties for Sale, Apartments in Vila Viçosa"
+    },
+    {
+        "Id": "102",
+        "Name": "Albufeira",
+        "Group": "Distrito de Faro",
+        "GroupID": "8",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/albufeira/",
+        "Title": "Properties for Sale, Apartments in Albufeira"
+    },
+    {
+        "Id": "103",
+        "Name": "Alcoutim",
+        "Group": "Distrito de Faro",
+        "GroupID": "8",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/alcoutim/",
+        "Title": "Properties for Sale, Apartments in Alcoutim"
+    },
+    {
+        "Id": "104",
+        "Name": "Aljezur",
+        "Group": "Distrito de Faro",
+        "GroupID": "8",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/aljezur/",
+        "Title": "Properties for Sale, Apartments in Aljezur"
+    },
+    {
+        "Id": "105",
+        "Name": "Castro Marim",
+        "Group": "Distrito de Faro",
+        "GroupID": "8",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/castro-marim/",
+        "Title": "Properties for Sale, Apartments in Castro Marim"
+    },
+    {
+        "Id": "106",
+        "Name": "Faro",
+        "Group": "Distrito de Faro",
+        "GroupID": "8",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/faro/",
+        "Title": "Properties for Sale, Apartments in Faro"
+    },
+    {
+        "Id": "107",
+        "Name": "Lagoa (Algarve)",
+        "Group": "Distrito de Faro",
+        "GroupID": "8",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/lagoa-(algarve)/",
+        "Title": "Properties for Sale, Apartments in Lagoa (Algarve)"
+    },
+    {
+        "Id": "108",
+        "Name": "Lagos",
+        "Group": "Distrito de Faro",
+        "GroupID": "8",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/lagos/",
+        "Title": "Properties for Sale, Apartments in Lagos"
+    },
+    {
+        "Id": "109",
+        "Name": "Loulé",
+        "Group": "Distrito de Faro",
+        "GroupID": "8",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/loule/",
+        "Title": "Properties for Sale, Apartments in Loulé"
+    },
+    {
+        "Id": "110",
+        "Name": "Monchique",
+        "Group": "Distrito de Faro",
+        "GroupID": "8",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/monchique/",
+        "Title": "Properties for Sale, Apartments in Monchique"
+    },
+    {
+        "Id": "111",
+        "Name": "Olhão",
+        "Group": "Distrito de Faro",
+        "GroupID": "8",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/olhao/",
+        "Title": "Properties for Sale, Apartments in Olhão"
+    },
+    {
+        "Id": "112",
+        "Name": "Portimão",
+        "Group": "Distrito de Faro",
+        "GroupID": "8",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/portimao/",
+        "Title": "Properties for Sale, Apartments in Portimão"
+    },
+    {
+        "Id": "113",
+        "Name": "São Brás de Alportel",
+        "Group": "Distrito de Faro",
+        "GroupID": "8",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/sao-bras-de-alportel/",
+        "Title": "Properties for Sale, Apartments in São Brás de Alportel"
+    },
+    {
+        "Id": "114",
+        "Name": "Silves",
+        "Group": "Distrito de Faro",
+        "GroupID": "8",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/silves/",
+        "Title": "Properties for Sale, Apartments in Silves"
+    },
+    {
+        "Id": "115",
+        "Name": "Tavira",
+        "Group": "Distrito de Faro",
+        "GroupID": "8",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/tavira/",
+        "Title": "Properties for Sale, Apartments in Tavira"
+    },
+    {
+        "Id": "116",
+        "Name": "Vila do Bispo",
+        "Group": "Distrito de Faro",
+        "GroupID": "8",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/vila-do-bispo/",
+        "Title": "Properties for Sale, Apartments in Vila do Bispo"
+    },
+    {
+        "Id": "117",
+        "Name": "Vila Real de Santo António",
+        "Group": "Distrito de Faro",
+        "GroupID": "8",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/vila-real-de-santo-antonio/",
+        "Title": "Properties for Sale, Apartments in Vila Real de Santo António"
+    },
+    {
+        "Id": "118",
+        "Name": "Aguiar da Beira",
+        "Group": "Distrito da Guarda",
+        "GroupID": "9",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/aguiar-da-beira/",
+        "Title": "Properties for Sale, Apartments in Aguiar da Beira"
+    },
+    {
+        "Id": "119",
+        "Name": "Almeida",
+        "Group": "Distrito da Guarda",
+        "GroupID": "9",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/almeida/",
+        "Title": "Properties for Sale, Apartments in Almeida"
+    },
+    {
+        "Id": "120",
+        "Name": "Celorico da Beira",
+        "Group": "Distrito da Guarda",
+        "GroupID": "9",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/celorico-da-beira/",
+        "Title": "Properties for Sale, Apartments in Celorico da Beira"
+    },
+    {
+        "Id": "121",
+        "Name": "Figueira de Castelo Rodrigo",
+        "Group": "Distrito da Guarda",
+        "GroupID": "9",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/figueira-de-castelo-rodrigo/",
+        "Title": "Properties for Sale, Apartments in Figueira de Castelo Rodrigo"
+    },
+    {
+        "Id": "122",
+        "Name": "Fornos de Algodres",
+        "Group": "Distrito da Guarda",
+        "GroupID": "9",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/fornos-de-algodres/",
+        "Title": "Properties for Sale, Apartments in Fornos de Algodres"
+    },
+    {
+        "Id": "123",
+        "Name": "Gouveia",
+        "Group": "Distrito da Guarda",
+        "GroupID": "9",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/gouveia/",
+        "Title": "Properties for Sale, Apartments in Gouveia"
+    },
+    {
+        "Id": "124",
+        "Name": "Guarda",
+        "Group": "Distrito da Guarda",
+        "GroupID": "9",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/guarda/",
+        "Title": "Properties for Sale, Apartments in Guarda"
+    },
+    {
+        "Id": "125",
+        "Name": "Manteigas",
+        "Group": "Distrito da Guarda",
+        "GroupID": "9",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/manteigas/",
+        "Title": "Properties for Sale, Apartments in Manteigas"
+    },
+    {
+        "Id": "126",
+        "Name": "Meda",
+        "Group": "Distrito da Guarda",
+        "GroupID": "9",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/meda/",
+        "Title": "Properties for Sale, Apartments in Meda"
+    },
+    {
+        "Id": "127",
+        "Name": "Pinhel",
+        "Group": "Distrito da Guarda",
+        "GroupID": "9",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/pinhel/",
+        "Title": "Properties for Sale, Apartments in Pinhel"
+    },
+    {
+        "Id": "128",
+        "Name": "Sabugal",
+        "Group": "Distrito da Guarda",
+        "GroupID": "9",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/sabugal/",
+        "Title": "Properties for Sale, Apartments in Sabugal"
+    },
+    {
+        "Id": "129",
+        "Name": "Seia",
+        "Group": "Distrito da Guarda",
+        "GroupID": "9",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/seia/",
+        "Title": "Properties for Sale, Apartments in Seia"
+    },
+    {
+        "Id": "130",
+        "Name": "Trancoso",
+        "Group": "Distrito da Guarda",
+        "GroupID": "9",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/trancoso/",
+        "Title": "Properties for Sale, Apartments in Trancoso"
+    },
+    {
+        "Id": "131",
+        "Name": "Vila Nova de Foz Côa",
+        "Group": "Distrito da Guarda",
+        "GroupID": "9",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/vila-nova-de-foz-coa/",
+        "Title": "Properties for Sale, Apartments in Vila Nova de Foz Côa"
+    },
+    {
+        "Id": "132",
+        "Name": "Alcobaça",
+        "Group": "Distrito de Leiria",
+        "GroupID": "10",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/alcobaca/",
+        "Title": "Properties for Sale, Apartments in Alcobaça"
+    },
+    {
+        "Id": "133",
+        "Name": "Alvaiázere",
+        "Group": "Distrito de Leiria",
+        "GroupID": "10",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/alvaiazere/",
+        "Title": "Properties for Sale, Apartments in Alvaiázere"
+    },
+    {
+        "Id": "134",
+        "Name": "Ansião",
+        "Group": "Distrito de Leiria",
+        "GroupID": "10",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/ansiao/",
+        "Title": "Properties for Sale, Apartments in Ansião"
+    },
+    {
+        "Id": "135",
+        "Name": "Batalha",
+        "Group": "Distrito de Leiria",
+        "GroupID": "10",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/batalha/",
+        "Title": "Properties for Sale, Apartments in Batalha"
+    },
+    {
+        "Id": "136",
+        "Name": "Bombarral",
+        "Group": "Distrito de Leiria",
+        "GroupID": "10",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/bombarral/",
+        "Title": "Properties for Sale, Apartments in Bombarral"
+    },
+    {
+        "Id": "137",
+        "Name": "Caldas da Rainha",
+        "Group": "Distrito de Leiria",
+        "GroupID": "10",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/caldas-da-rainha/",
+        "Title": "Properties for Sale, Apartments in Caldas da Rainha"
+    },
+    {
+        "Id": "138",
+        "Name": "Castanheira de Pêra",
+        "Group": "Distrito de Leiria",
+        "GroupID": "10",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/castanheira-de-pera/",
+        "Title": "Properties for Sale, Apartments in Castanheira de Pêra"
+    },
+    {
+        "Id": "139",
+        "Name": "Figueiró dos Vinhos",
+        "Group": "Distrito de Leiria",
+        "GroupID": "10",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/figueiro-dos-vinhos/",
+        "Title": "Properties for Sale, Apartments in Figueiró dos Vinhos"
+    },
+    {
+        "Id": "140",
+        "Name": "Leiria",
+        "Group": "Distrito de Leiria",
+        "GroupID": "10",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/leiria/",
+        "Title": "Properties for Sale, Apartments in Leiria"
+    },
+    {
+        "Id": "141",
+        "Name": "Marinha Grande",
+        "Group": "Distrito de Leiria",
+        "GroupID": "10",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/marinha-grande/",
+        "Title": "Properties for Sale, Apartments in Marinha Grande"
+    },
+    {
+        "Id": "142",
+        "Name": "Nazaré",
+        "Group": "Distrito de Leiria",
+        "GroupID": "10",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/nazare/",
+        "Title": "Properties for Sale, Apartments in Nazaré"
+    },
+    {
+        "Id": "143",
+        "Name": "Óbidos",
+        "Group": "Distrito de Leiria",
+        "GroupID": "10",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/obidos/",
+        "Title": "Properties for Sale, Apartments in Óbidos"
+    },
+    {
+        "Id": "144",
+        "Name": "Pedrógão Grande",
+        "Group": "Distrito de Leiria",
+        "GroupID": "10",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/pedrogao-grande/",
+        "Title": "Properties for Sale, Apartments in Pedrógão Grande"
+    },
+    {
+        "Id": "145",
+        "Name": "Peniche",
+        "Group": "Distrito de Leiria",
+        "GroupID": "10",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/peniche/",
+        "Title": "Properties for Sale, Apartments in Peniche"
+    },
+    {
+        "Id": "146",
+        "Name": "Pombal",
+        "Group": "Distrito de Leiria",
+        "GroupID": "10",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/pombal/",
+        "Title": "Properties for Sale, Apartments in Pombal"
+    },
+    {
+        "Id": "147",
+        "Name": "Porto de Mós",
+        "Group": "Distrito de Leiria",
+        "GroupID": "10",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/porto-de-mos/",
+        "Title": "Properties for Sale, Apartments in Porto de Mós"
+    },
+    {
+        "Id": "148",
+        "Name": "Alenquer",
+        "Group": "Distrito de Lisboa",
+        "GroupID": "11",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/alenquer/",
+        "Title": "Properties for Sale, Apartments in Alenquer"
+    },
+    {
+        "Id": "149",
+        "Name": "Arruda dos Vinhos",
+        "Group": "Distrito de Lisboa",
+        "GroupID": "11",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/arruda-dos-vinhos/",
+        "Title": "Properties for Sale, Apartments in Arruda dos Vinhos"
+    },
+    {
+        "Id": "150",
+        "Name": "Azambuja",
+        "Group": "Distrito de Lisboa",
+        "GroupID": "11",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/azambuja/",
+        "Title": "Properties for Sale, Apartments in Azambuja"
+    },
+    {
+        "Id": "151",
+        "Name": "Cadaval",
+        "Group": "Distrito de Lisboa",
+        "GroupID": "11",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/cadaval/",
+        "Title": "Properties for Sale, Apartments in Cadaval"
+    },
+    {
+        "Id": "152",
+        "Name": "Cascais",
+        "Group": "Distrito de Lisboa",
+        "GroupID": "11",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/cascais/",
+        "Title": "Properties for Sale, Apartments in Cascais"
+    },
+    {
+        "Id": "153",
+        "Name": "Lisboa",
+        "Group": "Distrito de Lisboa",
+        "GroupID": "11",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/lisboa/",
+        "Title": "Properties for Sale, Apartments in Lisboa"
+    },
+    {
+        "Id": "154",
+        "Name": "Loures",
+        "Group": "Distrito de Lisboa",
+        "GroupID": "11",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/loures/",
+        "Title": "Properties for Sale, Apartments in Loures"
+    },
+    {
+        "Id": "155",
+        "Name": "Lourinhã",
+        "Group": "Distrito de Lisboa",
+        "GroupID": "11",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/lourinha/",
+        "Title": "Properties for Sale, Apartments in Lourinhã"
+    },
+    {
+        "Id": "156",
+        "Name": "Mafra",
+        "Group": "Distrito de Lisboa",
+        "GroupID": "11",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/mafra/",
+        "Title": "Properties for Sale, Apartments in Mafra"
+    },
+    {
+        "Id": "157",
+        "Name": "Oeiras",
+        "Group": "Distrito de Lisboa",
+        "GroupID": "11",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/oeiras/",
+        "Title": "Properties for Sale, Apartments in Oeiras"
+    },
+    {
+        "Id": "158",
+        "Name": "Sintra",
+        "Group": "Distrito de Lisboa",
+        "GroupID": "11",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/sintra/",
+        "Title": "Properties for Sale, Apartments in Sintra"
+    },
+    {
+        "Id": "159",
+        "Name": "Sobral de Monte Agraço",
+        "Group": "Distrito de Lisboa",
+        "GroupID": "11",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/sobral-de-monte-agraco/",
+        "Title": "Properties for Sale, Apartments in Sobral de Monte Agraço"
+    },
+    {
+        "Id": "160",
+        "Name": "Torres Vedras",
+        "Group": "Distrito de Lisboa",
+        "GroupID": "11",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/torres-vedras/",
+        "Title": "Properties for Sale, Apartments in Torres Vedras"
+    },
+    {
+        "Id": "161",
+        "Name": "Vila Franca de Xira",
+        "Group": "Distrito de Lisboa",
+        "GroupID": "11",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/vila-franca-de-xira/",
+        "Title": "Properties for Sale, Apartments in Vila Franca de Xira"
+    },
+    {
+        "Id": "162",
+        "Name": "Amadora",
+        "Group": "Distrito de Lisboa",
+        "GroupID": "11",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/amadora/",
+        "Title": "Properties for Sale, Apartments in Amadora"
+    },
+    {
+        "Id": "163",
+        "Name": "Odivelas",
+        "Group": "Distrito de Lisboa",
+        "GroupID": "11",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/odivelas/",
+        "Title": "Properties for Sale, Apartments in Odivelas"
+    },
+    {
+        "Id": "164",
+        "Name": "Alter do Chão",
+        "Group": "Distrito de Portalegre",
+        "GroupID": "12",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/alter-do-chao/",
+        "Title": "Properties for Sale, Apartments in Alter do Chão"
+    },
+    {
+        "Id": "165",
+        "Name": "Arronches",
+        "Group": "Distrito de Portalegre",
+        "GroupID": "12",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/arronches/",
+        "Title": "Properties for Sale, Apartments in Arronches"
+    },
+    {
+        "Id": "166",
+        "Name": "Avis",
+        "Group": "Distrito de Portalegre",
+        "GroupID": "12",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/avis/",
+        "Title": "Properties for Sale, Apartments in Avis"
+    },
+    {
+        "Id": "167",
+        "Name": "Campo Maior",
+        "Group": "Distrito de Portalegre",
+        "GroupID": "12",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/campo-maior/",
+        "Title": "Properties for Sale, Apartments in Campo Maior"
+    },
+    {
+        "Id": "168",
+        "Name": "Castelo de Vide",
+        "Group": "Distrito de Portalegre",
+        "GroupID": "12",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/castelo-de-vide/",
+        "Title": "Properties for Sale, Apartments in Castelo de Vide"
+    },
+    {
+        "Id": "169",
+        "Name": "Crato",
+        "Group": "Distrito de Portalegre",
+        "GroupID": "12",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/crato/",
+        "Title": "Properties for Sale, Apartments in Crato"
+    },
+    {
+        "Id": "170",
+        "Name": "Elvas",
+        "Group": "Distrito de Portalegre",
+        "GroupID": "12",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/elvas/",
+        "Title": "Properties for Sale, Apartments in Elvas"
+    },
+    {
+        "Id": "171",
+        "Name": "Fronteira",
+        "Group": "Distrito de Portalegre",
+        "GroupID": "12",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/fronteira/",
+        "Title": "Properties for Sale, Apartments in Fronteira"
+    },
+    {
+        "Id": "172",
+        "Name": "Gavião",
+        "Group": "Distrito de Portalegre",
+        "GroupID": "12",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/gaviao/",
+        "Title": "Properties for Sale, Apartments in Gavião"
+    },
+    {
+        "Id": "173",
+        "Name": "Marvão",
+        "Group": "Distrito de Portalegre",
+        "GroupID": "12",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/marvao/",
+        "Title": "Properties for Sale, Apartments in Marvão"
+    },
+    {
+        "Id": "174",
+        "Name": "Monforte",
+        "Group": "Distrito de Portalegre",
+        "GroupID": "12",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/monforte/",
+        "Title": "Properties for Sale, Apartments in Monforte"
+    },
+    {
+        "Id": "175",
+        "Name": "Nisa",
+        "Group": "Distrito de Portalegre",
+        "GroupID": "12",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/nisa/",
+        "Title": "Properties for Sale, Apartments in Nisa"
+    },
+    {
+        "Id": "176",
+        "Name": "Ponte de Sor",
+        "Group": "Distrito de Portalegre",
+        "GroupID": "12",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/ponte-de-sor/",
+        "Title": "Properties for Sale, Apartments in Ponte de Sor"
+    },
+    {
+        "Id": "177",
+        "Name": "Portalegre",
+        "Group": "Distrito de Portalegre",
+        "GroupID": "12",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/portalegre/",
+        "Title": "Properties for Sale, Apartments in Portalegre"
+    },
+    {
+        "Id": "178",
+        "Name": "Sousel",
+        "Group": "Distrito de Portalegre",
+        "GroupID": "12",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/sousel/",
+        "Title": "Properties for Sale, Apartments in Sousel"
+    },
+    {
+        "Id": "179",
+        "Name": "Amarante",
+        "Group": "Distrito do Porto",
+        "GroupID": "13",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/amarante/",
+        "Title": "Properties for Sale, Apartments in Amarante"
+    },
+    {
+        "Id": "180",
+        "Name": "Baião",
+        "Group": "Distrito do Porto",
+        "GroupID": "13",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/baiao/",
+        "Title": "Properties for Sale, Apartments in Baião"
+    },
+    {
+        "Id": "181",
+        "Name": "Felgueiras",
+        "Group": "Distrito do Porto",
+        "GroupID": "13",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/felgueiras/",
+        "Title": "Properties for Sale, Apartments in Felgueiras"
+    },
+    {
+        "Id": "182",
+        "Name": "Gondomar",
+        "Group": "Distrito do Porto",
+        "GroupID": "13",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/gondomar/",
+        "Title": "Properties for Sale, Apartments in Gondomar"
+    },
+    {
+        "Id": "183",
+        "Name": "Lousada",
+        "Group": "Distrito do Porto",
+        "GroupID": "13",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/lousada/",
+        "Title": "Properties for Sale, Apartments in Lousada"
+    },
+    {
+        "Id": "184",
+        "Name": "Maia",
+        "Group": "Distrito do Porto",
+        "GroupID": "13",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/maia/",
+        "Title": "Properties for Sale, Apartments in Maia"
+    },
+    {
+        "Id": "185",
+        "Name": "Marco de Canaveses",
+        "Group": "Distrito do Porto",
+        "GroupID": "13",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/marco-de-canaveses/",
+        "Title": "Properties for Sale, Apartments in Marco de Canaveses"
+    },
+    {
+        "Id": "186",
+        "Name": "Matosinhos",
+        "Group": "Distrito do Porto",
+        "GroupID": "13",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/matosinhos/",
+        "Title": "Properties for Sale, Apartments in Matosinhos"
+    },
+    {
+        "Id": "187",
+        "Name": "Paços de Ferreira",
+        "Group": "Distrito do Porto",
+        "GroupID": "13",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/pacos-de-ferreira/",
+        "Title": "Properties for Sale, Apartments in Paços de Ferreira"
+    },
+    {
+        "Id": "188",
+        "Name": "Paredes",
+        "Group": "Distrito do Porto",
+        "GroupID": "13",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/paredes/",
+        "Title": "Properties for Sale, Apartments in Paredes"
+    },
+    {
+        "Id": "189",
+        "Name": "Penafiel",
+        "Group": "Distrito do Porto",
+        "GroupID": "13",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/penafiel/",
+        "Title": "Properties for Sale, Apartments in Penafiel"
+    },
+    {
+        "Id": "190",
+        "Name": "Porto",
+        "Group": "Distrito do Porto",
+        "GroupID": "13",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/porto/",
+        "Title": "Properties for Sale, Apartments in Porto"
+    },
+    {
+        "Id": "191",
+        "Name": "Póvoa de Varzim",
+        "Group": "Distrito do Porto",
+        "GroupID": "13",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/povoa-de-varzim/",
+        "Title": "Properties for Sale, Apartments in Póvoa de Varzim"
+    },
+    {
+        "Id": "192",
+        "Name": "Santo Tirso",
+        "Group": "Distrito do Porto",
+        "GroupID": "13",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/santo-tirso/",
+        "Title": "Properties for Sale, Apartments in Santo Tirso"
+    },
+    {
+        "Id": "193",
+        "Name": "Valongo",
+        "Group": "Distrito do Porto",
+        "GroupID": "13",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/valongo/",
+        "Title": "Properties for Sale, Apartments in Valongo"
+    },
+    {
+        "Id": "194",
+        "Name": "Vila do Conde",
+        "Group": "Distrito do Porto",
+        "GroupID": "13",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/vila-do-conde/",
+        "Title": "Properties for Sale, Apartments in Vila do Conde"
+    },
+    {
+        "Id": "195",
+        "Name": "Vila Nova de Gaia",
+        "Group": "Distrito do Porto",
+        "GroupID": "13",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/vila-nova-de-gaia/",
+        "Title": "Properties for Sale, Apartments in Vila Nova de Gaia"
+    },
+    {
+        "Id": "196",
+        "Name": "Trofa",
+        "Group": "Distrito do Porto",
+        "GroupID": "13",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/trofa/",
+        "Title": "Properties for Sale, Apartments in Trofa"
+    },
+    {
+        "Id": "197",
+        "Name": "Abrantes",
+        "Group": "Distrito de Santarém",
+        "GroupID": "14",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/abrantes/",
+        "Title": "Properties for Sale, Apartments in Abrantes"
+    },
+    {
+        "Id": "198",
+        "Name": "Alcanena",
+        "Group": "Distrito de Santarém",
+        "GroupID": "14",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/alcanena/",
+        "Title": "Properties for Sale, Apartments in Alcanena"
+    },
+    {
+        "Id": "199",
+        "Name": "Almeirim",
+        "Group": "Distrito de Santarém",
+        "GroupID": "14",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/almeirim/",
+        "Title": "Properties for Sale, Apartments in Almeirim"
+    },
+    {
+        "Id": "200",
+        "Name": "Alpiarça",
+        "Group": "Distrito de Santarém",
+        "GroupID": "14",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/alpiarca/",
+        "Title": "Properties for Sale, Apartments in Alpiarça"
+    },
+    {
+        "Id": "201",
+        "Name": "Benavente",
+        "Group": "Distrito de Santarém",
+        "GroupID": "14",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/benavente/",
+        "Title": "Properties for Sale, Apartments in Benavente"
+    },
+    {
+        "Id": "202",
+        "Name": "Cartaxo",
+        "Group": "Distrito de Santarém",
+        "GroupID": "14",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/cartaxo/",
+        "Title": "Properties for Sale, Apartments in Cartaxo"
+    },
+    {
+        "Id": "203",
+        "Name": "Chamusca",
+        "Group": "Distrito de Santarém",
+        "GroupID": "14",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/chamusca/",
+        "Title": "Properties for Sale, Apartments in Chamusca"
+    },
+    {
+        "Id": "204",
+        "Name": "Constância",
+        "Group": "Distrito de Santarém",
+        "GroupID": "14",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/constancia/",
+        "Title": "Properties for Sale, Apartments in Constância"
+    },
+    {
+        "Id": "205",
+        "Name": "Coruche",
+        "Group": "Distrito de Santarém",
+        "GroupID": "14",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/coruche/",
+        "Title": "Properties for Sale, Apartments in Coruche"
+    },
+    {
+        "Id": "206",
+        "Name": "Entroncamento",
+        "Group": "Distrito de Santarém",
+        "GroupID": "14",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/entroncamento/",
+        "Title": "Properties for Sale, Apartments in Entroncamento"
+    },
+    {
+        "Id": "207",
+        "Name": "Ferreira do Zêzere",
+        "Group": "Distrito de Santarém",
+        "GroupID": "14",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/ferreira-do-zezere/",
+        "Title": "Properties for Sale, Apartments in Ferreira do Zêzere"
+    },
+    {
+        "Id": "208",
+        "Name": "Golegã",
+        "Group": "Distrito de Santarém",
+        "GroupID": "14",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/golega/",
+        "Title": "Properties for Sale, Apartments in Golegã"
+    },
+    {
+        "Id": "209",
+        "Name": "Mação",
+        "Group": "Distrito de Santarém",
+        "GroupID": "14",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/macao/",
+        "Title": "Properties for Sale, Apartments in Mação"
+    },
+    {
+        "Id": "210",
+        "Name": "Rio Maior",
+        "Group": "Distrito de Santarém",
+        "GroupID": "14",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/rio-maior/",
+        "Title": "Properties for Sale, Apartments in Rio Maior"
+    },
+    {
+        "Id": "211",
+        "Name": "Salvaterra de Magos",
+        "Group": "Distrito de Santarém",
+        "GroupID": "14",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/salvaterra-de-magos/",
+        "Title": "Properties for Sale, Apartments in Salvaterra de Magos"
+    },
+    {
+        "Id": "212",
+        "Name": "Santarém",
+        "Group": "Distrito de Santarém",
+        "GroupID": "14",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/santarem/",
+        "Title": "Properties for Sale, Apartments in Santarém"
+    },
+    {
+        "Id": "213",
+        "Name": "Sardoal",
+        "Group": "Distrito de Santarém",
+        "GroupID": "14",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/sardoal/",
+        "Title": "Properties for Sale, Apartments in Sardoal"
+    },
+    {
+        "Id": "214",
+        "Name": "Tomar",
+        "Group": "Distrito de Santarém",
+        "GroupID": "14",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/tomar/",
+        "Title": "Properties for Sale, Apartments in Tomar"
+    },
+    {
+        "Id": "215",
+        "Name": "Torres Novas",
+        "Group": "Distrito de Santarém",
+        "GroupID": "14",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/torres-novas/",
+        "Title": "Properties for Sale, Apartments in Torres Novas"
+    },
+    {
+        "Id": "216",
+        "Name": "Vila Nova da Barquinha",
+        "Group": "Distrito de Santarém",
+        "GroupID": "14",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/vila-nova-da-barquinha/",
+        "Title": "Properties for Sale, Apartments in Vila Nova da Barquinha"
+    },
+    {
+        "Id": "217",
+        "Name": "Ourém",
+        "Group": "Distrito de Santarém",
+        "GroupID": "14",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/ourem/",
+        "Title": "Properties for Sale, Apartments in Ourém"
+    },
+    {
+        "Id": "218",
+        "Name": "Alcácer do Sal",
+        "Group": "Distrito de Setúbal",
+        "GroupID": "15",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/alcacer-do-sal/",
+        "Title": "Properties for Sale, Apartments in Alcácer do Sal"
+    },
+    {
+        "Id": "219",
+        "Name": "Alcochete",
+        "Group": "Distrito de Setúbal",
+        "GroupID": "15",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/alcochete/",
+        "Title": "Properties for Sale, Apartments in Alcochete"
+    },
+    {
+        "Id": "220",
+        "Name": "Almada",
+        "Group": "Distrito de Setúbal",
+        "GroupID": "15",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/almada/",
+        "Title": "Properties for Sale, Apartments in Almada"
+    },
+    {
+        "Id": "221",
+        "Name": "Barreiro",
+        "Group": "Distrito de Setúbal",
+        "GroupID": "15",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/barreiro/",
+        "Title": "Properties for Sale, Apartments in Barreiro"
+    },
+    {
+        "Id": "222",
+        "Name": "Grândola",
+        "Group": "Distrito de Setúbal",
+        "GroupID": "15",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/grandola/",
+        "Title": "Properties for Sale, Apartments in Grândola"
+    },
+    {
+        "Id": "223",
+        "Name": "Moita",
+        "Group": "Distrito de Setúbal",
+        "GroupID": "15",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/moita/",
+        "Title": "Properties for Sale, Apartments in Moita"
+    },
+    {
+        "Id": "224",
+        "Name": "Montijo",
+        "Group": "Distrito de Setúbal",
+        "GroupID": "15",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/montijo/",
+        "Title": "Properties for Sale, Apartments in Montijo"
+    },
+    {
+        "Id": "225",
+        "Name": "Palmela",
+        "Group": "Distrito de Setúbal",
+        "GroupID": "15",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/palmela/",
+        "Title": "Properties for Sale, Apartments in Palmela"
+    },
+    {
+        "Id": "226",
+        "Name": "Santiago do Cacém",
+        "Group": "Distrito de Setúbal",
+        "GroupID": "15",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/santiago-do-cacem/",
+        "Title": "Properties for Sale, Apartments in Santiago do Cacém"
+    },
+    {
+        "Id": "227",
+        "Name": "Seixal",
+        "Group": "Distrito de Setúbal",
+        "GroupID": "15",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/seixal/",
+        "Title": "Properties for Sale, Apartments in Seixal"
+    },
+    {
+        "Id": "228",
+        "Name": "Sesimbra",
+        "Group": "Distrito de Setúbal",
+        "GroupID": "15",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/sesimbra/",
+        "Title": "Properties for Sale, Apartments in Sesimbra"
+    },
+    {
+        "Id": "229",
+        "Name": "Setúbal",
+        "Group": "Distrito de Setúbal",
+        "GroupID": "15",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/setubal/",
+        "Title": "Properties for Sale, Apartments in Setúbal"
+    },
+    {
+        "Id": "230",
+        "Name": "Sines",
+        "Group": "Distrito de Setúbal",
+        "GroupID": "15",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/sines/",
+        "Title": "Properties for Sale, Apartments in Sines"
+    },
+    {
+        "Id": "231",
+        "Name": "Arcos de Valdevez",
+        "Group": "Distrito de Viana do Castelo",
+        "GroupID": "16",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/arcos-de-valdevez/",
+        "Title": "Properties for Sale, Apartments in Arcos de Valdevez"
+    },
+    {
+        "Id": "232",
+        "Name": "Caminha",
+        "Group": "Distrito de Viana do Castelo",
+        "GroupID": "16",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/caminha/",
+        "Title": "Properties for Sale, Apartments in Caminha"
+    },
+    {
+        "Id": "233",
+        "Name": "Melgaço",
+        "Group": "Distrito de Viana do Castelo",
+        "GroupID": "16",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/melgaco/",
+        "Title": "Properties for Sale, Apartments in Melgaço"
+    },
+    {
+        "Id": "234",
+        "Name": "Monção",
+        "Group": "Distrito de Viana do Castelo",
+        "GroupID": "16",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/moncao/",
+        "Title": "Properties for Sale, Apartments in Monção"
+    },
+    {
+        "Id": "235",
+        "Name": "Paredes de Coura",
+        "Group": "Distrito de Viana do Castelo",
+        "GroupID": "16",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/paredes-de-coura/",
+        "Title": "Properties for Sale, Apartments in Paredes de Coura"
+    },
+    {
+        "Id": "236",
+        "Name": "Ponte da Barca",
+        "Group": "Distrito de Viana do Castelo",
+        "GroupID": "16",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/ponte-da-barca/",
+        "Title": "Properties for Sale, Apartments in Ponte da Barca"
+    },
+    {
+        "Id": "237",
+        "Name": "Ponte de Lima",
+        "Group": "Distrito de Viana do Castelo",
+        "GroupID": "16",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/ponte-de-lima/",
+        "Title": "Properties for Sale, Apartments in Ponte de Lima"
+    },
+    {
+        "Id": "238",
+        "Name": "Valença",
+        "Group": "Distrito de Viana do Castelo",
+        "GroupID": "16",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/valenca/",
+        "Title": "Properties for Sale, Apartments in Valença"
+    },
+    {
+        "Id": "239",
+        "Name": "Viana do Castelo",
+        "Group": "Distrito de Viana do Castelo",
+        "GroupID": "16",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/viana-do-castelo/",
+        "Title": "Properties for Sale, Apartments in Viana do Castelo"
+    },
+    {
+        "Id": "240",
+        "Name": "Vila Nova de Cerveira",
+        "Group": "Distrito de Viana do Castelo",
+        "GroupID": "16",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/vila-nova-de-cerveira/",
+        "Title": "Properties for Sale, Apartments in Vila Nova de Cerveira"
+    },
+    {
+        "Id": "241",
+        "Name": "Alijó",
+        "Group": "Distrito de Vila Real",
+        "GroupID": "17",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/alijo/",
+        "Title": "Properties for Sale, Apartments in Alijó"
+    },
+    {
+        "Id": "242",
+        "Name": "Boticas",
+        "Group": "Distrito de Vila Real",
+        "GroupID": "17",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/boticas/",
+        "Title": "Properties for Sale, Apartments in Boticas"
+    },
+    {
+        "Id": "243",
+        "Name": "Chaves",
+        "Group": "Distrito de Vila Real",
+        "GroupID": "17",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/chaves/",
+        "Title": "Properties for Sale, Apartments in Chaves"
+    },
+    {
+        "Id": "244",
+        "Name": "Mesão Frio",
+        "Group": "Distrito de Vila Real",
+        "GroupID": "17",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/mesao-frio/",
+        "Title": "Properties for Sale, Apartments in Mesão Frio"
+    },
+    {
+        "Id": "245",
+        "Name": "Mondim de Basto",
+        "Group": "Distrito de Vila Real",
+        "GroupID": "17",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/mondim-de-basto/",
+        "Title": "Properties for Sale, Apartments in Mondim de Basto"
+    },
+    {
+        "Id": "246",
+        "Name": "Montalegre",
+        "Group": "Distrito de Vila Real",
+        "GroupID": "17",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/montalegre/",
+        "Title": "Properties for Sale, Apartments in Montalegre"
+    },
+    {
+        "Id": "247",
+        "Name": "Murça",
+        "Group": "Distrito de Vila Real",
+        "GroupID": "17",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/murca/",
+        "Title": "Properties for Sale, Apartments in Murça"
+    },
+    {
+        "Id": "248",
+        "Name": "Peso da Régua",
+        "Group": "Distrito de Vila Real",
+        "GroupID": "17",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/peso-da-regua/",
+        "Title": "Properties for Sale, Apartments in Peso da Régua"
+    },
+    {
+        "Id": "249",
+        "Name": "Ribeira de Pena",
+        "Group": "Distrito de Vila Real",
+        "GroupID": "17",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/ribeira-de-pena/",
+        "Title": "Properties for Sale, Apartments in Ribeira de Pena"
+    },
+    {
+        "Id": "250",
+        "Name": "Sabrosa",
+        "Group": "Distrito de Vila Real",
+        "GroupID": "17",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/sabrosa/",
+        "Title": "Properties for Sale, Apartments in Sabrosa"
+    },
+    {
+        "Id": "251",
+        "Name": "Santa Marta de Penaguião",
+        "Group": "Distrito de Vila Real",
+        "GroupID": "17",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/santa-marta-de-penaguiao/",
+        "Title": "Properties for Sale, Apartments in Santa Marta de Penaguião"
+    },
+    {
+        "Id": "252",
+        "Name": "Valpaços",
+        "Group": "Distrito de Vila Real",
+        "GroupID": "17",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/valpacos/",
+        "Title": "Properties for Sale, Apartments in Valpaços"
+    },
+    {
+        "Id": "253",
+        "Name": "Vila Pouca de Aguiar",
+        "Group": "Distrito de Vila Real",
+        "GroupID": "17",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/vila-pouca-de-aguiar/",
+        "Title": "Properties for Sale, Apartments in Vila Pouca de Aguiar"
+    },
+    {
+        "Id": "254",
+        "Name": "Vila Real",
+        "Group": "Distrito de Vila Real",
+        "GroupID": "17",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/vila-real/",
+        "Title": "Properties for Sale, Apartments in Vila Real"
+    },
+    {
+        "Id": "255",
+        "Name": "Armamar",
+        "Group": "Distrito de Viseu",
+        "GroupID": "18",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/armamar/",
+        "Title": "Properties for Sale, Apartments in Armamar"
+    },
+    {
+        "Id": "256",
+        "Name": "Carregal do Sal",
+        "Group": "Distrito de Viseu",
+        "GroupID": "18",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/carregal-do-sal/",
+        "Title": "Properties for Sale, Apartments in Carregal do Sal"
+    },
+    {
+        "Id": "257",
+        "Name": "Castro Daire",
+        "Group": "Distrito de Viseu",
+        "GroupID": "18",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/castro-daire/",
+        "Title": "Properties for Sale, Apartments in Castro Daire"
+    },
+    {
+        "Id": "258",
+        "Name": "Cinfães",
+        "Group": "Distrito de Viseu",
+        "GroupID": "18",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/cinfaes/",
+        "Title": "Properties for Sale, Apartments in Cinfães"
+    },
+    {
+        "Id": "259",
+        "Name": "Lamego",
+        "Group": "Distrito de Viseu",
+        "GroupID": "18",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/lamego/",
+        "Title": "Properties for Sale, Apartments in Lamego"
+    },
+    {
+        "Id": "260",
+        "Name": "Mangualde",
+        "Group": "Distrito de Viseu",
+        "GroupID": "18",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/mangualde/",
+        "Title": "Properties for Sale, Apartments in Mangualde"
+    },
+    {
+        "Id": "261",
+        "Name": "Moimenta da Beira",
+        "Group": "Distrito de Viseu",
+        "GroupID": "18",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/moimenta-da-beira/",
+        "Title": "Properties for Sale, Apartments in Moimenta da Beira"
+    },
+    {
+        "Id": "262",
+        "Name": "Mortágua",
+        "Group": "Distrito de Viseu",
+        "GroupID": "18",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/mortagua/",
+        "Title": "Properties for Sale, Apartments in Mortágua"
+    },
+    {
+        "Id": "263",
+        "Name": "Nelas",
+        "Group": "Distrito de Viseu",
+        "GroupID": "18",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/nelas/",
+        "Title": "Properties for Sale, Apartments in Nelas"
+    },
+    {
+        "Id": "264",
+        "Name": "Oliveira de Frades",
+        "Group": "Distrito de Viseu",
+        "GroupID": "18",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/oliveira-de-frades/",
+        "Title": "Properties for Sale, Apartments in Oliveira de Frades"
+    },
+    {
+        "Id": "265",
+        "Name": "Penalva do Castelo",
+        "Group": "Distrito de Viseu",
+        "GroupID": "18",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/penalva-do-castelo/",
+        "Title": "Properties for Sale, Apartments in Penalva do Castelo"
+    },
+    {
+        "Id": "266",
+        "Name": "Penedono",
+        "Group": "Distrito de Viseu",
+        "GroupID": "18",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/penedono/",
+        "Title": "Properties for Sale, Apartments in Penedono"
+    },
+    {
+        "Id": "267",
+        "Name": "Resende",
+        "Group": "Distrito de Viseu",
+        "GroupID": "18",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/resende/",
+        "Title": "Properties for Sale, Apartments in Resende"
+    },
+    {
+        "Id": "268",
+        "Name": "Santa Comba Dão",
+        "Group": "Distrito de Viseu",
+        "GroupID": "18",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/santa-comba-dao/",
+        "Title": "Properties for Sale, Apartments in Santa Comba Dão"
+    },
+    {
+        "Id": "269",
+        "Name": "São João da Pesqueira",
+        "Group": "Distrito de Viseu",
+        "GroupID": "18",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/sao-joao-da-pesqueira/",
+        "Title": "Properties for Sale, Apartments in São João da Pesqueira"
+    },
+    {
+        "Id": "270",
+        "Name": "São Pedro do Sul",
+        "Group": "Distrito de Viseu",
+        "GroupID": "18",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/sao-pedro-do-sul/",
+        "Title": "Properties for Sale, Apartments in São Pedro do Sul"
+    },
+    {
+        "Id": "271",
+        "Name": "Sátão",
+        "Group": "Distrito de Viseu",
+        "GroupID": "18",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/satao/",
+        "Title": "Properties for Sale, Apartments in Sátão"
+    },
+    {
+        "Id": "272",
+        "Name": "Sernancelhe",
+        "Group": "Distrito de Viseu",
+        "GroupID": "18",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/sernancelhe/",
+        "Title": "Properties for Sale, Apartments in Sernancelhe"
+    },
+    {
+        "Id": "273",
+        "Name": "Tabuaço",
+        "Group": "Distrito de Viseu",
+        "GroupID": "18",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/tabuaco/",
+        "Title": "Properties for Sale, Apartments in Tabuaço"
+    },
+    {
+        "Id": "274",
+        "Name": "Tarouca",
+        "Group": "Distrito de Viseu",
+        "GroupID": "18",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/tarouca/",
+        "Title": "Properties for Sale, Apartments in Tarouca"
+    },
+    {
+        "Id": "275",
+        "Name": "Tondela",
+        "Group": "Distrito de Viseu",
+        "GroupID": "18",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/tondela/",
+        "Title": "Properties for Sale, Apartments in Tondela"
+    },
+    {
+        "Id": "276",
+        "Name": "Vila Nova de Paiva",
+        "Group": "Distrito de Viseu",
+        "GroupID": "18",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/vila-nova-de-paiva/",
+        "Title": "Properties for Sale, Apartments in Vila Nova de Paiva"
+    },
+    {
+        "Id": "277",
+        "Name": "Viseu",
+        "Group": "Distrito de Viseu",
+        "GroupID": "18",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/viseu/",
+        "Title": "Properties for Sale, Apartments in Viseu"
+    },
+    {
+        "Id": "278",
+        "Name": "Vouzela",
+        "Group": "Distrito de Viseu",
+        "GroupID": "18",
+        "Url": "https://casa.sapo.pt/pt/comprar-apartamentos~moradias/vouzela/",
+        "Title": "Properties for Sale, Apartments in Vouzela"
+    }
+]
